@@ -1,4 +1,6 @@
-# Algorithmic Challenges
+# Fast Food Chain
+
+## Algorithmic Challenges
 
 This repository contains efficient algorithmic solutions for two distinct problems - optimizing revenue for a chain of restaurants and finding the shortest path in a tower quest. 
 
